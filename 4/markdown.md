@@ -11,6 +11,7 @@
 * **コマンドの書き方**
 * **コードの書き方**
 * **箇条書きが続く場合は表を活用**
+* **引用について**
 
 ## 1. 見出しの使い方
 
@@ -84,4 +85,22 @@ Techpit 独自のエディターで執筆している方は、diffでコード�
 ![](../.gitbook/assets/tables.png)
 
 このように表形式で表示した方が見やすいことがあるので、その際はマークダウンで表形式で表示するようにしてください。
+
+
+
+### 8. 引用について
+
+引用は、文頭に `>` を置くことで引用になります。
+
+#### 引用の要件の成立について
+
+著作権上、引用は要件が成立していれば著作権者の了解なしに行えます。ここで言う要件とは以下のように定められています。
+
+```text
+「引用」とは、例えば自説を補強するために自分の論文の中に他人の文章を掲載しそれを解説する場合のこと
+```
+
+[https://pf.bunka.go.jp/chosaku/chosakuken/naruhodo/answer.asp?Q\_ID=0000304&fbclid=IwAR1Z9jGTfYzJ7NDuAjGyr7VZVp1\_xhO8svvZRy2qHDfAsvODiGWvVy3c0e8](https://pf.bunka.go.jp/chosaku/chosakuken/naruhodo/answer.asp?Q_ID=0000304&fbclid=IwAR1Z9jGTfYzJ7NDuAjGyr7VZVp1_xhO8svvZRy2qHDfAsvODiGWvVy3c0e8)
+
+なので、引用はあくまでご自身で執筆した説明を補強するために使ってください。
 
