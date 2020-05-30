@@ -106,17 +106,48 @@ Techpit 独自のエディターで執筆している方は、diffでコード�
 
 ### 8. 引用について
 
-引用は、文頭に `>` を置くことで引用になります。引用を使う場合は**出典**を明記してください。
+引用は、文頭に `>` を置くことで引用になります。引用を使う場合は**出典**を明記してください。出典の明記方法は以下に示します。
+
+**【書籍の場合】**
+
+書籍を引用する場合は、以下の内容を記載してください。
+
+1. 著者名
+2. 『書名』
+3. 出版社
+4. 出版年
+5. 該当ページ
+
+**例\)**
+
+* Dustin Boswell; Trevor Foucher. リーダブルコード. 角 征典訳. オライリージャパン, 2012, 3p.
+
+
+
+**【Webサイトを引用する場合】**
+
+Webサイトに掲載されている情報をそのまま引用する場合、以下の内容を記載してください。
+
+1. 該当ページのタイトル
+2. URL
+
+**例\)**
+
+* 著作権なるほど質問箱. [https://pf.bunka.go.jp/chosaku/chosakuken/naruhodo/answer.asp?Q\_ID=0000304&fbclid=IwAR1Z9jGTfYzJ7NDuAjGyr7VZVp1\_xhO8svvZRy2qHDfAsvODiGWvVy3c0e8](https://pf.bunka.go.jp/chosaku/chosakuken/naruhodo/answer.asp?Q_ID=0000304&fbclid=IwAR1Z9jGTfYzJ7NDuAjGyr7VZVp1_xhO8svvZRy2qHDfAsvODiGWvVy3c0e8)
+
+
 
 #### 引用の要件の成立について
 
 著作権上、引用は要件が成立していれば著作権者の了解なしに行えます。ここで言う要件とは以下のように定められています。
 
-```text
-「引用」とは、例えば自説を補強するために自分の論文の中に他人の文章を掲載しそれを解説する場合のこと
-```
+> 「引用」とは、例えば自説を補強するために自分の論文の中に他人の文章を掲載しそれを解説する場合のこと
 
-[https://pf.bunka.go.jp/chosaku/chosakuken/naruhodo/answer.asp?Q\_ID=0000304&fbclid=IwAR1Z9jGTfYzJ7NDuAjGyr7VZVp1\_xhO8svvZRy2qHDfAsvODiGWvVy3c0e8](https://pf.bunka.go.jp/chosaku/chosakuken/naruhodo/answer.asp?Q_ID=0000304&fbclid=IwAR1Z9jGTfYzJ7NDuAjGyr7VZVp1_xhO8svvZRy2qHDfAsvODiGWvVy3c0e8)
+* 著作権なるほど質問箱. [https://pf.bunka.go.jp/chosaku/chosakuken/naruhodo/answer.asp?Q\_ID=0000304&fbclid=IwAR1Z9jGTfYzJ7NDuAjGyr7VZVp1\_xhO8svvZRy2qHDfAsvODiGWvVy3c0e8](https://pf.bunka.go.jp/chosaku/chosakuken/naruhodo/answer.asp?Q_ID=0000304&fbclid=IwAR1Z9jGTfYzJ7NDuAjGyr7VZVp1_xhO8svvZRy2qHDfAsvODiGWvVy3c0e8)
 
 なので、引用はあくまでご自身で執筆した説明を補強するために使ってください。
+
+{% embed url="https://pf.bunka.go.jp/chosaku/chosakuken/naruhodo/answer.asp?Q\_ID=0000304&fbclid=IwAR1Z9jGTfYzJ7NDuAjGyr7VZVp1\_xhO8svvZRy2qHDfAsvODiGWvVy3c0e8" %}
+
+
 
