@@ -147,7 +147,3 @@ Webサイトに掲載されている情報をそのまま引用する場合、�
 
 なので、引用はあくまでご自身で執筆した説明を補強するために使ってください。
 
-{% embed url="https://pf.bunka.go.jp/chosaku/chosakuken/naruhodo/answer.asp?Q\_ID=0000304&fbclid=IwAR1Z9jGTfYzJ7NDuAjGyr7VZVp1\_xhO8svvZRy2qHDfAsvODiGWvVy3c0e8" %}
-
-
-
