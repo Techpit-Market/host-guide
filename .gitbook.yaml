@@ -1,0 +1,17 @@
+root: ./
+
+​structure:
+  readme: README.md
+  summary: SUMMARY.md​
+
+redirects:
+  4/4-0: 4/github-rules.md
+  4/4-1: 4/intro.md
+  4/4-2: 4/chapter0.md
+  4/4-3: 4/chapter1.md
+  4/4-4: 4/implementation.md
+  4/4-5: 4/commands.md
+  4/4-6: 4/references.md
+  4/4-7: 4/cloud-services.md
+  4/4-9: 4/self-check.md
+  4/4-10: 4/anti-patterns.md
