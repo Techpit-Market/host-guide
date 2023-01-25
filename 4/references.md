@@ -42,4 +42,3 @@
 ### 例 画像を用いた操作結果の記述
 
 ![&#x30B9;&#x30AF;&#x30EA;&#x30FC;&#x30F3;&#x30B7;&#x30E7;&#x30C3;&#x30C8; 2020-07-07 9 46 46](https://user-images.githubusercontent.com/36391432/86677779-e1f63f00-c036-11ea-9d8b-1e500eada8a9.png)
-
